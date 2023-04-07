@@ -1,3 +1,4 @@
+// you have to change this
 package org.nonsense.motd;
 
 import org.bukkit.Bukkit;
