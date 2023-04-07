@@ -1,3 +1,4 @@
+// and this
 package org.nonsense.motd;
 
 import org.bukkit.ChatColor;
