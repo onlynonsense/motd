@@ -1,11 +1,11 @@
-package org.nonsense.spigotmotd;
+package org.nonsense.motd;
 
 import org.bukkit.ChatColor;
 import org.bukkit.event.EventHandler;
 import org.bukkit.event.Listener;
 import org.bukkit.event.server.ServerListPingEvent;
 
-public class SpigotMOTDServerListPing implements Listener {
+public class MOTDServerList implements Listener {
 
     private final SpigotMOTD plugin;
 
