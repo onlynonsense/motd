@@ -3,7 +3,7 @@
 
 # change motd here
 motd:
-  - "&7This server is running a f&lMOTD &7plugin"
+  - "&7This server is running an f&lMOTD &7plugin"
   - "&7by &e&lgithub.com/onlynonsense"
 
 # change maximum players here
