@@ -1,0 +1,10 @@
+
+# MOTD by github.com/onlynonsense
+
+# change motd here
+motd:
+  - "&7This server is running a f&lMOTD &7plugin"
+  - "&7by &e&lgithub.com/onlynonsense"
+
+# change maximum players here
+maxplayers: 0
