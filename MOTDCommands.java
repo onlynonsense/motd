@@ -1,4 +1,4 @@
-package org.nonsense.spigotmotd;
+package org.nonsense.motd;
 
 import org.bukkit.ChatColor;
 import org.bukkit.command.Command;
